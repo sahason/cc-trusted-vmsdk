@@ -12,7 +12,7 @@ name = "cctrusted_vm"
 path = "src/lib.rs"
 
 [dependencies]
-evidence_api = { git = "https://github.com/cc-api/evidence-api.git", branch = "main" }
+evidence_api = { git = "https://github.com/sahason/evidence-api.git", branch = "main" }
 anyhow = "1.0"
 log = "0.4.20"
 nix = "0.26.2"
